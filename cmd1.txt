@@ -1,0 +1,1 @@
+streamlit run water_potability_app.py
